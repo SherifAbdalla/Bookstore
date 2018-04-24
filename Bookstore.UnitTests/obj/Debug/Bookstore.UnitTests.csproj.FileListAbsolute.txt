@@ -50,3 +50,7 @@ C:\Users\Sherif Abdalla\Documents\Visual Studio 2015\Projects\Bookstore\Bookstor
 C:\Users\Sherif Abdalla\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore.UnitTests\bin\Debug\EntityFramework.xml
 C:\Users\Sherif Abdalla\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore.UnitTests\obj\Debug\Bookstore.UnitTests.dll
 C:\Users\Sherif Abdalla\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore.UnitTests\obj\Debug\Bookstore.UnitTests.pdb
+D:\Visual Studio 2015\Bookstore\Bookstore.UnitTests\obj\Debug\Bookstore.UnitTests.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Bookstore\Bookstore.UnitTests\obj\Debug\Bookstore.UnitTests.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2015\Bookstore\Bookstore.UnitTests\obj\Debug\Bookstore.UnitTests.dll
+D:\Visual Studio 2015\Bookstore\Bookstore.UnitTests\obj\Debug\Bookstore.UnitTests.pdb
