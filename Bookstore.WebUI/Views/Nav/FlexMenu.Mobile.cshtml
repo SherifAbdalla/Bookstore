@@ -1,0 +1,24 @@
+﻿@model IEnumerable<string>
+
+
+   <div data-role="navbar">
+    <ul>
+        @foreach (var link in Model)
+        {
+            <li>
+                @Html.RouteLink(link, new
+           {
+               controller = "Book",
+               action = "Pagination",
+               Specilization = link,
+               page = 1
+           },
+                                            new
+                                            {
+                                                data_transiton = "fade",
+                                                @Class = ((link == ViewBag.SelectedSpec) ? " ui-btn-active" : "").ToString()
+                                            })
+            </li>
+        }
+    </ul>
+</div>

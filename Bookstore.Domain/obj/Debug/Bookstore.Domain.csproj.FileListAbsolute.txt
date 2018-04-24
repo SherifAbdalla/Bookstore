@@ -1,0 +1,52 @@
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore.Domain\bin\Debug\BookStore.mdf
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore.Domain\bin\Debug\BookStore_log.ldf
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore.Domain\bin\Debug\Bookstore.Domain.dll.config
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore.Domain\bin\Debug\Bookstore.Domain.dll
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore.Domain\bin\Debug\Bookstore.Domain.pdb
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore.Domain\obj\Debug\Bookstore.Domain.dll
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore.Domain\obj\Debug\Bookstore.Domain.pdb
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore.Domain\obj\Debug\Bookstore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore.Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore.Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore.Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore.Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore.Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore.Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Sherif Abdalla\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Visual Studio 2015\Bookstore\Bookstore.Domain\bin\Debug\BookStore.mdf
+D:\Visual Studio 2015\Bookstore\Bookstore.Domain\bin\Debug\BookStore_log.ldf
+D:\Visual Studio 2015\Bookstore\Bookstore.Domain\bin\Debug\Bookstore.Domain.dll.config
+D:\Visual Studio 2015\Bookstore\Bookstore.Domain\bin\Debug\Bookstore.Domain.dll
+D:\Visual Studio 2015\Bookstore\Bookstore.Domain\bin\Debug\Bookstore.Domain.pdb
+D:\Visual Studio 2015\Bookstore\Bookstore.Domain\bin\Debug\EntityFramework.dll
+D:\Visual Studio 2015\Bookstore\Bookstore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio 2015\Bookstore\Bookstore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Visual Studio 2015\Bookstore\Bookstore.Domain\bin\Debug\System.Web.Helpers.dll
+D:\Visual Studio 2015\Bookstore\Bookstore.Domain\bin\Debug\System.Web.Mvc.dll
+D:\Visual Studio 2015\Bookstore\Bookstore.Domain\bin\Debug\System.Web.Razor.dll
+D:\Visual Studio 2015\Bookstore\Bookstore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Visual Studio 2015\Bookstore\Bookstore.Domain\bin\Debug\System.Web.WebPages.dll
+D:\Visual Studio 2015\Bookstore\Bookstore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Visual Studio 2015\Bookstore\Bookstore.Domain\bin\Debug\EntityFramework.xml
+D:\Visual Studio 2015\Bookstore\Bookstore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio 2015\Bookstore\Bookstore.Domain\bin\Debug\System.Web.Helpers.xml
+D:\Visual Studio 2015\Bookstore\Bookstore.Domain\bin\Debug\System.Web.Mvc.xml
+D:\Visual Studio 2015\Bookstore\Bookstore.Domain\bin\Debug\System.Web.Razor.xml
+D:\Visual Studio 2015\Bookstore\Bookstore.Domain\bin\Debug\System.Web.WebPages.xml
+D:\Visual Studio 2015\Bookstore\Bookstore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Visual Studio 2015\Bookstore\Bookstore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Visual Studio 2015\Bookstore\Bookstore.Domain\obj\Debug\Bookstore.Domain.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Bookstore\Bookstore.Domain\obj\Debug\Bookstore.Domain.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2015\Bookstore\Bookstore.Domain\obj\Debug\Bookstore.Domain.dll
+D:\Visual Studio 2015\Bookstore\Bookstore.Domain\obj\Debug\Bookstore.Domain.pdb
+D:\Visual Studio 2015\Bookstore\Bookstore.Domain\obj\Debug\Bookstore.Domain.csproj.CopyComplete

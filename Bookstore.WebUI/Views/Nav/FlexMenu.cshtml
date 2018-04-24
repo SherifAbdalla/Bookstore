@@ -1,0 +1,12 @@
+﻿@model IEnumerable<string>
+@{
+    bool Horzontal = (bool)(ViewContext.RouteData.Values["MobileLayout"] ?? false);
+    string WrapperClasses = Horzontal ? "btn-group btn-group-sm btn-group-justified" : null;
+}
+<div class="@WrapperClasses">
+    @Html.ActionLink("Home", "Pagination", "Book", null, new { @Class = Horzontal ? "btn btn-default btn-sm" : "btn btn-block btn-default btn-lg" })
+    @foreach (var link in Model)
+    {
+        @Html.RouteLink(link, new { controller = "Book", action = "Pagination", Specilization = link, page = 1 }, new { @Class = (Horzontal ? "btn btn-default btn-sm" : "btn btn-block btn-default btn-lg") + ((link == ViewBag.SelectedSpec) ? " btn-primary" : "").ToString(), @style = "overflow:hidden; text-overflow:ellipsis" })
+    }
+</div>

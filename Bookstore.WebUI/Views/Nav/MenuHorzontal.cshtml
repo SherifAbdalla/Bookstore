@@ -1,0 +1,8 @@
+﻿@model IEnumerable<string>
+    <div class="btn-group btn-group-sm btn-group-justified">
+        @Html.ActionLink("Home", "Pagination", "Book", null, new { @Class = "btn btn-default" })
+        @foreach (var link in Model)
+        {
+            @Html.RouteLink(link, new { controller = "Book", action = "Pagination", Specilization = link, page = 1 }, new { @Class = "btn btn-default btn-sm" + ((link == ViewBag.SelectedSpec) ? "btn-primary" : "").ToString() })
+        }
+    </div>
